@@ -10,7 +10,8 @@ public class ContarPalabras extends InicioApp{
             }
             car2 = car;
         }
-        return palabras;
+        return palabras
+                ;
     }
     public int contarCaracteresTotal(String cadena){
         for (int i = 0;i<cadena.length();i++){ //recorro la cadena
