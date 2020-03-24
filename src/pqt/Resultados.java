@@ -1,5 +1,10 @@
 package pqt;
 
+/**
+ *
+ * @author debora
+ * @param Resultados sirve para mostrar en pantalla los resultados.
+ */
 public class Resultados extends InicioApp{
     final String TEXTO_LETRAS= "Las letras que se repiten son:"; 
     final String TEXTO_PALABRAS= "Se han ingresado ";
